@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE = 'http://localhost:8000';
+const BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
 const api = axios.create({ baseURL: BASE, timeout: 10000 });
 
 export const fetchJobs = () => api.get('/jobs/');
