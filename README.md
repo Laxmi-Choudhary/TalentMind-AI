@@ -1,62 +1,164 @@
-# TalentMind AI
-**Enterprise Intelligent Candidate Discovery & Ranking Platform**
+# 🚀 TalentMind AI - Intelligent Candidate Discovery Engine
 
-TalentMind AI is a proof-of-concept AI recruiter platform that goes beyond basic keyword matching. It intelligently ranks candidates using semantic understanding, career trajectory analysis, and behavioral signals, providing a transparent Explainable AI (XAI) breakdown for every recommendation.
+## 📌 Overview
 
-## Architecture & Tech Stack
+TalentMind AI is an AI-powered recruitment intelligence platform designed to revolutionize talent acquisition. Unlike traditional Applicant Tracking Systems (ATS) that rely solely on keyword matching, TalentMind AI leverages semantic understanding, career intelligence, and behavioral signals to identify and rank the most suitable candidates.
 
-- **Frontend:** React 18, Vite, React Router v6
-- **Styling:** Vanilla CSS (Glassmorphism, Dark/Light Mode, Recharts)
-- **Backend:** FastAPI (Python)
-- **AI Core:** TF-IDF Cosine Similarity, Custom NLP Heuristics
-- **Data Layer:** Rich JSON seeding (Simulating MongoDB)
+The platform acts as an intelligent AI recruiter capable of deeply understanding job requirements, evaluating candidate profiles holistically, and generating highly accurate ranked shortlists.
 
-## Core Features Implemented
+---
 
-1. **Hybrid AI Ranking Engine:**
-   - 35% Semantic Fit (Skills & Experience)
-   - 20% Career Trajectory (Growth velocity, Stability, Leadership)
-   - 15% Skill Depth
-   - 15% Behavioral Signals (Platform engagement, GitHub commits)
-   - 10% Culture Fit
-   - 5% Recency (Availability & Last active)
+## ✨ Key Features
 
-2. **Explainable AI (XAI):**
-   Generates human-readable context for every ranked candidate, including Strengths, Missing Skills, Risks, and Career insights.
+### 🧠 Deep Job Understanding
 
-3. **Conversational Recruiter Assistant:**
-   Natural language search for the talent pool (e.g., "Find senior backend engineers with AWS experience").
+* Extracts skills, experience, seniority, and hidden requirements from complex job descriptions.
+* Identifies soft skills and culture fit indicators.
+* Understands semantic meaning rather than relying on exact keywords.
 
-4. **Rich Dashboard & Analytics:**
-   Real-time metrics, match score trends, funnel analytics, and candidate source distributions.
+### 👤 Candidate Intelligence Engine
 
-## How to Run Locally
+* Parses resumes and candidate profiles.
+* Generates AI-powered insights including:
 
-You can use the provided `start.bat` script to launch both servers simultaneously:
-1. Double-click `start.bat`
-2. Two command prompt windows will open.
-3. The frontend will be available at `http://localhost:5173`
+  * Skill Depth Score
+  * Career Growth Score
+  * Leadership Score
+  * Stability Score
+  * Domain Expertise Score
+  * Learning Agility Score
 
-Alternatively, you can run them manually:
+### 🔍 Semantic Candidate Matching
 
-### Backend
-```bash
-cd backend
-pip install -r requirements.txt
-python -m uvicorn main:app --reload --port 8000
+* Uses embeddings and vector similarity search.
+* Understands contextual relevance between job descriptions and candidate profiles.
+* Discovers candidates with transferable skills.
+
+### 📊 Behavioral Signal Integration
+
+Analyzes:
+
+* GitHub activity
+* Profile updates
+* Learning behavior
+* Assessment participation
+* Platform engagement
+
+Generates an Engagement Score to assess candidate readiness and interest.
+
+### 🏆 Hybrid Ranking Engine
+
+Ranks candidates using multiple weighted signals:
+
+| Component          | Weight |
+| ------------------ | ------ |
+| Semantic Fit       | 35%    |
+| Career Trajectory  | 20%    |
+| Skill Depth        | 15%    |
+| Behavioral Signals | 15%    |
+| Culture Fit        | 10%    |
+| Recency            | 5%     |
+
+### 💡 Explainable AI
+
+Provides transparent recommendations by explaining:
+
+* Why a candidate is recommended
+* Key strengths
+* Missing skills
+* Potential risks
+* Career insights
+
+### ⚖️ Bias Mitigation
+
+Promotes fair hiring practices by removing sensitive attributes such as:
+
+* Gender
+* Age
+* Ethnicity
+* Personal identifiers
+
+---
+
+## 🏗️ System Architecture
+
+```text
+Job Description
+       │
+       ▼
+Deep Job Understanding Engine
+       │
+       ▼
+Feature Extraction
+       │
+       ▼
+Candidate Intelligence Engine
+       │
+       ▼
+Semantic Embedding Generation
+       │
+       ▼
+Vector Search + Knowledge Graph
+       │
+       ▼
+Hybrid Ranking Engine
+       │
+       ▼
+Explainable AI Module
+       │
+       ▼
+Ranked Candidate Shortlist
 ```
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
-```bash
-cd frontend
-npm install
-npm run dev
-```
 
-## Directory Structure
-- `backend/routers/` - FastAPI endpoint definitions
-- `backend/services/` - AI intelligence, parsing, and ranking logic
-- `backend/data/` - 20 rich candidate profiles & 5 sample jobs
-- `frontend/src/pages/` - Main React views
-- `frontend/src/components/` - Reusable UI elements
-- `frontend/src/index.css` - Complete design system
+* React.js
+* Tailwind CSS
+* Chart.js
+
+### Backend
+
+* FastAPI
+* Python
+
+### AI & Machine Learning
+
+* OpenAI GPT Models
+* Sentence Transformers
+* LangChain
+
+### Databases
+
+* PostgreSQL
+* Neo4j
+* FAISS / Pinecone
+
+### Search & Caching
+
+* Elasticsearch
+* Redis
+
+### Deployment
+
+* Docker
+* Kubernetes
+
+---
+
+
+## 🎯 Impact
+
+TalentMind AI significantly reduces recruiter effort by automating candidate discovery and improving hiring accuracy through intelligent ranking and explainable recommendations.
+
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+### ⭐ If you found this project useful, please consider giving it a star!
