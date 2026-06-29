@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "c001",
+    "name": "Arjun Mehta",
+    "avatar_initials": "AM",
+    "avatar_color": "#6366f1",
+    "title": "Senior Software Engineer",
+    "location": "Bangalore, India",
+    "email": "arjun.mehta@email.com",
+    "phone": "+91-9876543210",
+    "years_experience": 7,
+    "industry": "FinTech",
+    "education": [
+      {"degree": "B.Tech Computer Science", "institution": "IIT Bombay", "year": 2017}
+    ],
+    "certifications": ["AWS Solutions Architect", "Kubernetes CKA", "Google Cloud Professional"],
+    "skills": ["Python", "FastAPI", "AWS", "Kubernetes", "PostgreSQL", "Redis", "Microservices", "Docker", "React", "Node.js"],
+    "experience": [
+      {"company": "Razorpay", "role": "Senior Software Engineer", "years": 3, "description": "Led backend API platform serving 10M+ daily transactions. Reduced latency by 40%."},
+      {"company": "Flipkart", "role": "Software Engineer", "years": 2, "description": "Built real-time inventory management system using Kafka and microservices."},
+      {"company": "TCS", "role": "Junior Developer", "years": 2, "description": "Developed REST APIs for banking applications using Java Spring Boot."}
+    ],
+    "projects": [
+      {"name": "PayGate Platform", "description": "High-throughput payment processing system", "tech": ["Python", "FastAPI", "Redis", "Kafka"]},
+      {"name": "Inventory ML Service", "description": "Demand forecasting microservice", "tech": ["Python", "scikit-learn", "Docker"]}
+    ],
+    "soft_skills": ["Leadership", "Problem Solving", "Mentoring", "Communication"],
+    "culture_fit": ["Innovation-driven", "Fast-paced", "Collaborative"],
+    "assessment_scores": {"coding": 92, "system_design": 88, "communication": 85},
+    "portfolio": "https://arjunmehta.dev",
+    "github_url": "https://github.com/arjunm",
+    "ai_scores": {
+      "skill_depth": 88,
+      "career_growth": 85,
+      "leadership": 78,
+      "stability": 72,
+      "domain_expertise": 90,
+      "learning_agility": 82
+    },
+    "behavioral_signals": {
+      "last_active_days": 2,
+      "profile_updated_days": 5,
+      "github_commits_30d": 47,
+      "assessments_completed": 5,
+      "platform_logins_30d": 22,
+      "courses_completed": 3,
+      "engagement_score": 91
+    },
+    "salary_expectation": 2800000,
+    "available_from": "2026-07-15",
+    "open_to_remote": true,
+    "preferred_roles": ["Backend Engineer", "Tech Lead", "Staff Engineer"]
+  },
+  {
+    "id": "c002",
+    "name": "Priya Sharma",
+    "avatar_initials": "PS",
+    "avatar_color": "#8b5cf6",
+    "title": "Full Stack Developer",
+    "location": "Pune, India",
+    "email": "priya.sharma@email.com",
+    "phone": "+91-9876543211",
+    "years_experience": 5,
+    "industry": "E-Commerce",
+    "education": [
+      {"degree": "M.Tech Computer Science", "institution": "BITS Pilani", "year": 2019}
+    ],
+    "certifications": ["React Advanced", "MongoDB Developer", "Azure Fundamentals"],
+    "skills": ["React", "TypeScript", "Node.js", "MongoDB", "GraphQL", "Redux", "Jest", "Docker", "Express.js", "TailwindCSS"],
+    "experience": [
+      {"company": "Meesho", "role": "Full Stack Developer", "years": 3, "description": "Built seller dashboard and recommendation UI serving 5M sellers. Led frontend team of 6."},
+      {"company": "Nykaa", "role": "Frontend Developer", "years": 2, "description": "Developed product catalog and checkout flow, improving conversion rate by 18%."}
+    ],
+    "projects": [
+      {"name": "Seller Analytics Portal", "description": "Real-time seller dashboard with ML insights", "tech": ["React", "TypeScript", "GraphQL", "MongoDB"]},
+      {"name": "Smart Checkout", "description": "One-click checkout with personalization", "tech": ["React", "Node.js", "Redis"]}
+    ],
+    "soft_skills": ["Creativity", "Attention to Detail", "Team Collaboration", "Adaptability"],
+    "culture_fit": ["User-centric", "Agile", "Growth-mindset"],
+    "assessment_scores": {"coding": 85, "system_design": 78, "communication": 90},
+    "portfolio": "https://priyasharma.io",
+    "github_url": "https://github.com/priyashdev",
+    "ai_scores": {
+      "skill_depth": 82,
+      "career_growth": 80,
+      "leadership": 72,
+      "stability": 85,
+      "domain_expertise": 78,
+      "learning_agility": 88
+    },
+    "behavioral_signals": {
+      "last_active_days": 1,
+      "profile_updated_days": 3,
+      "github_commits_30d": 62,
+      "assessments_completed": 4,
+      "platform_logins_30d": 28,
+      "courses_completed": 5,
+      "engagement_score": 95
+    },
+    "salary_expectation": 2200000,
+    "available_from": "2026-08-01",
+    "open_to_remote": true,
+    "preferred_roles": ["Full Stack Developer", "Frontend Lead", "Product Engineer"]
+  },
+  {
+    "id": "c003",
+    "name": "Rahul Gupta",
+    "avatar_initials": "RG",
+    "avatar_color": "#06b6d4",
+    "title": "DevOps & Cloud Architect",
+    "location": "Hyderabad, India",
+    "email": "rahul.gupta@email.com",
+    "phone": "+91-9876543212",
+    "years_experience": 9,
+    "industry": "Cloud Infrastructure",
+    "education": [
+      {"degree": "B.E. Electronics & Communication", "institution": "NIT Warangal", "year": 2015}
+    ],
+    "certifications": ["AWS DevOps Professional", "Certified Kubernetes Administrator", "Terraform Associate", "HashiCorp Vault"],
+    "skills": ["AWS", "GCP", "Kubernetes", "Terraform", "Ansible", "Jenkins", "ArgoCD", "Prometheus", "Grafana", "Python", "Bash", "Docker"],
+    "experience": [
+      {"company": "Amazon Web Services", "role": "Cloud Architect", "years": 4, "description": "Designed multi-region, fault-tolerant infrastructure for Fortune 500 clients. Achieved 99.99% uptime SLA."},
+      {"company": "Infosys", "role": "DevOps Engineer", "years": 3, "description": "Implemented CI/CD pipelines reducing deployment time from 2 days to 45 minutes."},
+      {"company": "Wipro", "role": "Systems Engineer", "years": 2, "description": "Managed on-premise to cloud migration for 15 enterprise clients."}
+    ],
+    "projects": [
+      {"name": "Multi-Cloud Orchestration Platform", "description": "Unified control plane for AWS+GCP workloads", "tech": ["Terraform", "Kubernetes", "ArgoCD"]},
+      {"name": "Zero-Downtime Migration", "description": "Live database migration with blue-green deployment", "tech": ["AWS", "Ansible", "Python"]}
+    ],
+    "soft_skills": ["Strategic Thinking", "Documentation", "Stakeholder Management", "Training"],
+    "culture_fit": ["Engineering excellence", "Reliability-focused", "Data-driven"],
+    "assessment_scores": {"coding": 79, "system_design": 95, "communication": 82},
+    "portfolio": "https://rahulgupta.cloud",
+    "github_url": "https://github.com/rahulcloud",
+    "ai_scores": {
+      "skill_depth": 95,
+      "career_growth": 88,
+      "leadership": 85,
+      "stability": 90,
+      "domain_expertise": 97,
+      "learning_agility": 79
+    },
+    "behavioral_signals": {
+      "last_active_days": 4,
+      "profile_updated_days": 10,
+      "github_commits_30d": 28,
+      "assessments_completed": 6,
+      "platform_logins_30d": 15,
+      "courses_completed": 4,
+      "engagement_score": 78
+    },
+    "salary_expectation": 3500000,
+    "available_from": "2026-09-01",
+    "open_to_remote": false,
+    "preferred_roles": ["Cloud Architect", "DevOps Lead", "Platform Engineer"]
+  },
+  {
+    "id": "c004",
+    "name": "Sneha Iyer",
+    "avatar_initials": "SI",
+    "avatar_color": "#10b981",
+    "title": "Machine Learning Engineer",
+    "location": "Chennai, India",
+    "email": "sneha.iyer@email.com",
+    "phone": "+91-9876543213",
+    "years_experience": 6,
+    "industry": "AI/ML",
+    "education": [
+      {"degree": "M.Sc Data Science", "institution": "IIT Madras", "year": 2018}
+    ],
+    "certifications": ["TensorFlow Developer", "Google ML Engineer", "Databricks Lakehouse"],
+    "skills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Spark", "Kafka", "MLflow", "Feature Store", "SQL", "Airflow", "LangChain", "HuggingFace"],
+    "experience": [
+      {"company": "Swiggy", "role": "Senior ML Engineer", "years": 3, "description": "Built real-time demand forecasting model reducing food waste by 25%. Led ML platform team."},
+      {"company": "Zomato", "role": "Data Scientist", "years": 2, "description": "Developed recommendation engine serving personalized results to 80M users."},
+      {"company": "Fractal Analytics", "role": "ML Analyst", "years": 1, "description": "Built churn prediction models for BFSI clients."}
+    ],
+    "projects": [
+      {"name": "Real-time Demand Forecasting", "description": "LSTM-based forecasting with Kafka streaming", "tech": ["PyTorch", "Kafka", "MLflow", "Python"]},
+      {"name": "LLM Recommendation Engine", "description": "Fine-tuned LLM for food recommendation", "tech": ["HuggingFace", "LangChain", "Python"]}
+    ],
+    "soft_skills": ["Analytical Thinking", "Research", "Communication", "Cross-functional Collaboration"],
+    "culture_fit": ["Research-oriented", "Data-driven", "Innovation-first"],
+    "assessment_scores": {"coding": 88, "system_design": 85, "communication": 80},
+    "portfolio": "https://sneha-ml.github.io",
+    "github_url": "https://github.com/snehaml",
+    "ai_scores": {
+      "skill_depth": 92,
+      "career_growth": 88,
+      "leadership": 75,
+      "stability": 78,
+      "domain_expertise": 95,
+      "learning_agility": 96
+    },
+    "behavioral_signals": {
+      "last_active_days": 1,
+      "profile_updated_days": 2,
+      "github_commits_30d": 78,
+      "assessments_completed": 7,
+      "platform_logins_30d": 30,
+      "courses_completed": 8,
+      "engagement_score": 98
+    },
+    "salary_expectation": 2900000,
+    "available_from": "2026-07-01",
+    "open_to_remote": true,
+    "preferred_roles": ["ML Engineer", "AI Research Engineer", "Data Science Lead"]
+  },
+  {
+    "id": "c005",
+    "name": "Vikram Nair",
+    "avatar_initials": "VN",
+    "avatar_color": "#f59e0b",
+    "title": "Product Engineering Manager",
+    "location": "Mumbai, India",
+    "email": "vikram.nair@email.com",
+    "phone": "+91-9876543214",
+    "years_experience": 12,
+    "industry": "SaaS",
+    "education": [
+      {"degree": "MBA Technology Management", "institution": "IIM Ahmedabad", "year": 2014},
+      {"degree": "B.Tech CS", "institution": "VIT Vellore", "year": 2012}
+    ],
+    "certifications": ["PMP", "AWS Solutions Architect", "Product Leadership (Reforge)"],
+    "skills": ["System Design", "Agile", "Python", "React", "PostgreSQL", "Architecture", "Team Leadership", "OKRs", "Roadmapping", "Stakeholder Management"],
+    "experience": [
+      {"company": "Freshworks", "role": "Engineering Manager", "years": 4, "description": "Led 25-person engineering org. Shipped 5 major product features generating $12M ARR."},
+      {"company": "Zoho", "role": "Senior Software Engineer", "years": 4, "description": "Architected CRM core engine handling 100M+ records."},
+      {"company": "HCL", "role": "Software Engineer", "years": 4, "description": "Enterprise application development for global clients."}
+    ],
+    "projects": [
+      {"name": "Freshdesk AI Copilot", "description": "AI-powered support automation feature", "tech": ["Python", "OpenAI API", "React"]},
+      {"name": "Zero-to-One CRM Module", "description": "New CRM vertical launched in 6 months", "tech": ["System Design", "Java", "PostgreSQL"]}
+    ],
+    "soft_skills": ["Leadership", "Vision Setting", "Negotiation", "Executive Communication", "Mentoring"],
+    "culture_fit": ["Performance-driven", "Customer-obsessed", "Outcome-focused"],
+    "assessment_scores": {"coding": 75, "system_design": 92, "communication": 95},
+    "portfolio": "https://vikramnair.io",
+    "github_url": "https://github.com/vikramnair",
+    "ai_scores": {
+      "skill_depth": 78,
+      "career_growth": 95,
+      "leadership": 97,
+      "stability": 95,
+      "domain_expertise": 88,
+      "learning_agility": 80
+    },
+    "behavioral_signals": {
+      "last_active_days": 3,
+      "profile_updated_days": 7,
+      "github_commits_30d": 12,
+      "assessments_completed": 3,
+      "platform_logins_30d": 18,
+      "courses_completed": 2,
+      "engagement_score": 72
+    },
+    "salary_expectation": 4500000,
+    "available_from": "2026-10-01",
+    "open_to_remote": true,
+    "preferred_roles": ["Engineering Manager", "VP Engineering", "CTO"]
+  },
+  {
+    "id": "c006",
+    "name": "Aisha Khan",
+    "avatar_initials": "AK",
+    "avatar_color": "#ec4899",
+    "title": "Frontend Architect",
+    "location": "Delhi, India",
+    "email": "aisha.khan@email.com",
+    "phone": "+91-9876543215",
+    "years_experience": 8,
+    "industry": "FinTech",
+    "education": [
+      {"degree": "B.Tech Information Technology", "institution": "DTU Delhi", "year": 2016}
+    ],
+    "certifications": ["React Professional", "Web Performance Optimization", "Accessibility Expert"],
+    "skills": ["React", "Next.js", "TypeScript", "GraphQL", "WebAssembly", "Performance Optimization", "CSS Architecture", "Micro-frontends", "Storybook", "Cypress"],
+    "experience": [
+      {"company": "PhonePe", "role": "Frontend Architect", "years": 3, "description": "Designed micro-frontend architecture serving 400M users. Reduced TTI by 60%."},
+      {"company": "Paytm", "role": "Senior Frontend Engineer", "years": 3, "description": "Led frontend team for payments dashboard. Implemented design system."},
+      {"company": "MakeMyTrip", "role": "UI Developer", "years": 2, "description": "Built responsive booking flow with A/B testing framework."}
+    ],
+    "projects": [
+      {"name": "Micro-Frontend Platform", "description": "Shell-based micro-frontend architecture", "tech": ["React", "Module Federation", "TypeScript"]},
+      {"name": "Design System Phoenix", "description": "Component library used by 12 teams", "tech": ["React", "Storybook", "CSS"]}
+    ],
+    "soft_skills": ["Attention to Detail", "User Empathy", "Technical Advocacy", "Mentoring"],
+    "culture_fit": ["User-obsessed", "Quality-first", "Collaborative"],
+    "assessment_scores": {"coding": 90, "system_design": 82, "communication": 87},
+    "portfolio": "https://aishakhan.design",
+    "github_url": "https://github.com/aishakhan",
+    "ai_scores": {
+      "skill_depth": 93,
+      "career_growth": 84,
+      "leadership": 80,
+      "stability": 88,
+      "domain_expertise": 91,
+      "learning_agility": 85
+    },
+    "behavioral_signals": {
+      "last_active_days": 1,
+      "profile_updated_days": 4,
+      "github_commits_30d": 55,
+      "assessments_completed": 5,
+      "platform_logins_30d": 25,
+      "courses_completed": 4,
+      "engagement_score": 90
+    },
+    "salary_expectation": 3200000,
+    "available_from": "2026-08-15",
+    "open_to_remote": true,
+    "preferred_roles": ["Frontend Architect", "Tech Lead", "Staff Engineer"]
+  },
+  {
+    "id": "c007",
+    "name": "Rohan Desai",
+    "avatar_initials": "RD",
+    "avatar_color": "#f97316",
+    "title": "Data Engineer",
+    "location": "Ahmedabad, India",
+    "email": "rohan.desai@email.com",
+    "phone": "+91-9876543216",
+    "years_experience": 5,
+    "industry": "Analytics",
+    "education": [
+      {"degree": "B.E. Computer Engineering", "institution": "NIT Surat", "year": 2019}
+    ],
+    "certifications": ["dbt Analytics Engineering", "Snowflake Data Engineer", "Databricks Associate"],
+    "skills": ["Python", "dbt", "Snowflake", "Spark", "Airflow", "BigQuery", "Kafka", "SQL", "Pandas", "Great Expectations"],
+    "experience": [
+      {"company": "Groww", "role": "Senior Data Engineer", "years": 3, "description": "Built real-time data pipelines processing 500M events/day. Reduced data latency from 6h to 5min."},
+      {"company": "CRED", "role": "Data Engineer", "years": 2, "description": "Implemented data warehouse on Snowflake. Built 200+ dbt models."}
+    ],
+    "projects": [
+      {"name": "Real-time Analytics Pipeline", "description": "Kafka + Spark Streaming pipeline", "tech": ["Kafka", "Spark", "Snowflake", "dbt"]},
+      {"name": "Data Quality Framework", "description": "Automated testing with Great Expectations", "tech": ["Python", "Great Expectations", "Airflow"]}
+    ],
+    "soft_skills": ["Analytical Thinking", "Documentation", "Cross-team Collaboration"],
+    "culture_fit": ["Data-driven", "Precision-focused", "Iterative"],
+    "assessment_scores": {"coding": 84, "system_design": 80, "communication": 75},
+    "portfolio": "https://rohandesai.dev",
+    "github_url": "https://github.com/rohandata",
+    "ai_scores": {
+      "skill_depth": 86,
+      "career_growth": 82,
+      "leadership": 65,
+      "stability": 80,
+      "domain_expertise": 88,
+      "learning_agility": 84
+    },
+    "behavioral_signals": {
+      "last_active_days": 3,
+      "profile_updated_days": 8,
+      "github_commits_30d": 35,
+      "assessments_completed": 4,
+      "platform_logins_30d": 18,
+      "courses_completed": 3,
+      "engagement_score": 80
+    },
+    "salary_expectation": 2100000,
+    "available_from": "2026-07-20",
+    "open_to_remote": true,
+    "preferred_roles": ["Data Engineer", "Analytics Engineer", "Data Platform Lead"]
+  },
+  {
+    "id": "c008",
+    "name": "Neha Patel",
+    "avatar_initials": "NP",
+    "avatar_color": "#14b8a6",
+    "title": "Backend Engineer",
+    "location": "Surat, India",
+    "email": "neha.patel@email.com",
+    "phone": "+91-9876543217",
+    "years_experience": 4,
+    "industry": "HealthTech",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "GIT Surat", "year": 2020}
+    ],
+    "certifications": ["Java Spring Professional", "AWS Developer Associate"],
+    "skills": ["Java", "Spring Boot", "Kafka", "PostgreSQL", "Redis", "Docker", "Microservices", "REST API", "JUnit", "Maven"],
+    "experience": [
+      {"company": "Practo", "role": "Backend Engineer", "years": 3, "description": "Built HIPAA-compliant appointment scheduling API serving 8M patients."},
+      {"company": "1mg", "role": "Junior Developer", "years": 1, "description": "Developed pharmacy order management backend."}
+    ],
+    "projects": [
+      {"name": "Appointment Scheduling Engine", "description": "Calendar-aware booking system with conflict resolution", "tech": ["Java", "Spring Boot", "PostgreSQL"]},
+      {"name": "Prescription OCR Service", "description": "ML-powered prescription digitization", "tech": ["Python", "Google Vision API", "Java"]}
+    ],
+    "soft_skills": ["Reliability", "Detail-oriented", "Team Player"],
+    "culture_fit": ["Mission-driven", "Compliance-aware", "Methodical"],
+    "assessment_scores": {"coding": 82, "system_design": 74, "communication": 78},
+    "portfolio": "https://nehapatel.dev",
+    "github_url": "https://github.com/nehabackend",
+    "ai_scores": {
+      "skill_depth": 75,
+      "career_growth": 78,
+      "leadership": 60,
+      "stability": 88,
+      "domain_expertise": 80,
+      "learning_agility": 80
+    },
+    "behavioral_signals": {
+      "last_active_days": 5,
+      "profile_updated_days": 12,
+      "github_commits_30d": 25,
+      "assessments_completed": 3,
+      "platform_logins_30d": 14,
+      "courses_completed": 2,
+      "engagement_score": 68
+    },
+    "salary_expectation": 1800000,
+    "available_from": "2026-08-01",
+    "open_to_remote": false,
+    "preferred_roles": ["Backend Engineer", "Java Developer", "Microservices Engineer"]
+  },
+  {
+    "id": "c009",
+    "name": "Kartik Joshi",
+    "avatar_initials": "KJ",
+    "avatar_color": "#a78bfa",
+    "title": "Security Engineer",
+    "location": "Noida, India",
+    "email": "kartik.joshi@email.com",
+    "phone": "+91-9876543218",
+    "years_experience": 7,
+    "industry": "Cybersecurity",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "JIIT Noida", "year": 2017}
+    ],
+    "certifications": ["CISSP", "CEH", "AWS Security Specialty", "OSCP"],
+    "skills": ["Penetration Testing", "SIEM", "IAM", "Zero Trust", "Python", "Burp Suite", "Splunk", "AWS Security", "Compliance", "Threat Modeling"],
+    "experience": [
+      {"company": "Razorpay", "role": "Security Engineer", "years": 4, "description": "Built threat detection platform processing 2B events/day. Reduced MTTR by 70%."},
+      {"company": "Capgemini", "role": "Security Analyst", "years": 3, "description": "Conducted 50+ penetration tests for banking clients."}
+    ],
+    "projects": [
+      {"name": "Threat Intelligence Platform", "description": "Real-time security event correlation engine", "tech": ["Python", "Splunk", "Kafka"]},
+      {"name": "Zero Trust Implementation", "description": "Identity-first security framework", "tech": ["IAM", "AWS Security", "Terraform"]}
+    ],
+    "soft_skills": ["Risk Thinking", "Thoroughness", "Communication", "Training"],
+    "culture_fit": ["Security-first", "Paranoid-by-design", "Compliance-focused"],
+    "assessment_scores": {"coding": 80, "system_design": 85, "communication": 82},
+    "portfolio": "https://kartikjoshi.sec",
+    "github_url": "https://github.com/kartikoscp",
+    "ai_scores": {
+      "skill_depth": 90,
+      "career_growth": 82,
+      "leadership": 72,
+      "stability": 85,
+      "domain_expertise": 93,
+      "learning_agility": 78
+    },
+    "behavioral_signals": {
+      "last_active_days": 6,
+      "profile_updated_days": 14,
+      "github_commits_30d": 20,
+      "assessments_completed": 5,
+      "platform_logins_30d": 12,
+      "courses_completed": 3,
+      "engagement_score": 70
+    },
+    "salary_expectation": 2700000,
+    "available_from": "2026-09-15",
+    "open_to_remote": true,
+    "preferred_roles": ["Security Engineer", "AppSec Lead", "CISO Track"]
+  },
+  {
+    "id": "c010",
+    "name": "Divya Krishnan",
+    "avatar_initials": "DK",
+    "avatar_color": "#f43f5e",
+    "title": "iOS Developer",
+    "location": "Kochi, India",
+    "email": "divya.krishnan@email.com",
+    "phone": "+91-9876543219",
+    "years_experience": 6,
+    "industry": "Mobile Tech",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "CUSAT", "year": 2018}
+    ],
+    "certifications": ["Apple Development", "SwiftUI Expert"],
+    "skills": ["Swift", "SwiftUI", "UIKit", "Core Data", "ARKit", "Combine", "Xcode", "TestFlight", "Fastlane", "Python"],
+    "experience": [
+      {"company": "BYJU's", "role": "Senior iOS Developer", "years": 3, "description": "Led iOS team for learning app with 50M downloads. Shipped 12 major releases."},
+      {"company": "Ola", "role": "iOS Developer", "years": 2, "description": "Built driver app with real-time navigation and AR features."},
+      {"company": "Webonise", "role": "Junior iOS Developer", "years": 1, "description": "Developed multiple client iOS apps."}
+    ],
+    "projects": [
+      {"name": "AR Learning Experience", "description": "ARKit-powered 3D educational content", "tech": ["Swift", "ARKit", "SceneKit"]},
+      {"name": "Driver Navigation SDK", "description": "Custom turn-by-turn navigation with ML routing", "tech": ["Swift", "Core Location", "MapKit"]}
+    ],
+    "soft_skills": ["Creativity", "User Empathy", "Craftsmanship", "Collaboration"],
+    "culture_fit": ["Innovation-driven", "User-obsessed", "Quality-first"],
+    "assessment_scores": {"coding": 88, "system_design": 75, "communication": 84},
+    "portfolio": "https://divyakrishnan.io",
+    "github_url": "https://github.com/divyaios",
+    "ai_scores": {
+      "skill_depth": 90,
+      "career_growth": 82,
+      "leadership": 70,
+      "stability": 85,
+      "domain_expertise": 92,
+      "learning_agility": 82
+    },
+    "behavioral_signals": {
+      "last_active_days": 2,
+      "profile_updated_days": 6,
+      "github_commits_30d": 40,
+      "assessments_completed": 4,
+      "platform_logins_30d": 20,
+      "courses_completed": 4,
+      "engagement_score": 85
+    },
+    "salary_expectation": 2500000,
+    "available_from": "2026-08-01",
+    "open_to_remote": true,
+    "preferred_roles": ["iOS Developer", "Mobile Tech Lead", "Staff iOS Engineer"]
+  },
+  {
+    "id": "c011",
+    "name": "Siddharth Rao",
+    "avatar_initials": "SR",
+    "avatar_color": "#22c55e",
+    "title": "Blockchain Developer",
+    "location": "Bangalore, India",
+    "email": "siddharth.rao@email.com",
+    "phone": "+91-9876543220",
+    "years_experience": 4,
+    "industry": "Web3/Blockchain",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "RV College of Engineering", "year": 2020}
+    ],
+    "certifications": ["Ethereum Developer", "Solidity Expert", "Hyperledger Certified"],
+    "skills": ["Solidity", "Web3.js", "Ethers.js", "Hardhat", "IPFS", "React", "Node.js", "Rust", "Smart Contracts", "DeFi Protocols"],
+    "experience": [
+      {"company": "CoinDCX", "role": "Blockchain Developer", "years": 3, "description": "Built DeFi staking protocols with $50M TVL. Audited 15 smart contracts."},
+      {"company": "HashCraft", "role": "Junior Blockchain Developer", "years": 1, "description": "Developed NFT marketplace contracts on Ethereum."}
+    ],
+    "projects": [
+      {"name": "DeFi Yield Aggregator", "description": "Cross-chain yield optimization protocol", "tech": ["Solidity", "Hardhat", "Web3.js"]},
+      {"name": "DAO Governance System", "description": "On-chain voting and proposal system", "tech": ["Solidity", "React", "IPFS"]}
+    ],
+    "soft_skills": ["Curiosity", "Security-mindedness", "Research", "Community"],
+    "culture_fit": ["Decentralization-first", "Open source", "Innovation"],
+    "assessment_scores": {"coding": 86, "system_design": 78, "communication": 72},
+    "portfolio": "https://siddharthrao.xyz",
+    "github_url": "https://github.com/sidweb3",
+    "ai_scores": {
+      "skill_depth": 84,
+      "career_growth": 80,
+      "leadership": 62,
+      "stability": 70,
+      "domain_expertise": 90,
+      "learning_agility": 92
+    },
+    "behavioral_signals": {
+      "last_active_days": 1,
+      "profile_updated_days": 3,
+      "github_commits_30d": 65,
+      "assessments_completed": 3,
+      "platform_logins_30d": 26,
+      "courses_completed": 6,
+      "engagement_score": 92
+    },
+    "salary_expectation": 2300000,
+    "available_from": "2026-07-01",
+    "open_to_remote": true,
+    "preferred_roles": ["Blockchain Developer", "Smart Contract Engineer", "Web3 Lead"]
+  },
+  {
+    "id": "c012",
+    "name": "Meera Nambiar",
+    "avatar_initials": "MN",
+    "avatar_color": "#e879f9",
+    "title": "Product Manager - Platform",
+    "location": "Bangalore, India",
+    "email": "meera.nambiar@email.com",
+    "phone": "+91-9876543221",
+    "years_experience": 8,
+    "industry": "SaaS",
+    "education": [
+      {"degree": "MBA", "institution": "XLRI Jamshedpur", "year": 2016},
+      {"degree": "B.Tech CS", "institution": "MNIT Jaipur", "year": 2014}
+    ],
+    "certifications": ["Pragmatic Institute PM", "Google Analytics", "Amplitude Certified"],
+    "skills": ["Product Strategy", "Roadmapping", "Data Analysis", "SQL", "User Research", "A/B Testing", "OKRs", "Agile", "Go-to-Market", "Pricing"],
+    "experience": [
+      {"company": "Atlassian", "role": "Senior Product Manager", "years": 4, "description": "Owned Jira platform roadmap. Shipped developer productivity features used by 180K teams."},
+      {"company": "Freshworks", "role": "Product Manager", "years": 2, "description": "Launched 3 integration marketplace products generating $5M ARR."},
+      {"company": "Mu Sigma", "role": "Business Analyst", "years": 2, "description": "Data analysis and product insights for Fortune 100 clients."}
+    ],
+    "projects": [
+      {"name": "Jira AI Assistant", "description": "LLM-powered issue triaging and sprint planning", "tech": ["Product Strategy", "AI/ML", "User Research"]},
+      {"name": "Integration Marketplace", "description": "Self-serve integration platform launch", "tech": ["Go-to-Market", "Pricing", "Agile"]}
+    ],
+    "soft_skills": ["Strategic Vision", "Empathy", "Data Storytelling", "Influence", "Prioritization"],
+    "culture_fit": ["Customer-obsessed", "Data-driven", "Builder mentality"],
+    "assessment_scores": {"coding": 55, "system_design": 85, "communication": 97},
+    "portfolio": "https://meeranambiar.pm",
+    "github_url": "",
+    "ai_scores": {
+      "skill_depth": 72,
+      "career_growth": 92,
+      "leadership": 90,
+      "stability": 93,
+      "domain_expertise": 88,
+      "learning_agility": 85
+    },
+    "behavioral_signals": {
+      "last_active_days": 2,
+      "profile_updated_days": 5,
+      "github_commits_30d": 0,
+      "assessments_completed": 4,
+      "platform_logins_30d": 22,
+      "courses_completed": 5,
+      "engagement_score": 83
+    },
+    "salary_expectation": 3800000,
+    "available_from": "2026-10-01",
+    "open_to_remote": true,
+    "preferred_roles": ["Product Manager", "Director of Product", "VP Product"]
+  },
+  {
+    "id": "c013",
+    "name": "Alok Verma",
+    "avatar_initials": "AV",
+    "avatar_color": "#fb923c",
+    "title": "Site Reliability Engineer",
+    "location": "Gurgaon, India",
+    "email": "alok.verma@email.com",
+    "phone": "+91-9876543222",
+    "years_experience": 6,
+    "industry": "Cloud/SRE",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "DTU Delhi", "year": 2018}
+    ],
+    "certifications": ["Google SRE", "Prometheus Certified", "AWS Advanced Networking"],
+    "skills": ["Kubernetes", "Prometheus", "Grafana", "Golang", "Python", "Terraform", "Incident Management", "SLO/SLA", "Chaos Engineering", "AWS"],
+    "experience": [
+      {"company": "Google India", "role": "SRE", "years": 4, "description": "Maintained 99.999% uptime for Google Pay India. Led incident response for Tier-1 outages."},
+      {"company": "Myntra", "role": "DevOps Engineer", "years": 2, "description": "Built observability platform with Prometheus + Grafana for 200+ microservices."}
+    ],
+    "projects": [
+      {"name": "Chaos Engineering Platform", "description": "Automated fault injection for resilience testing", "tech": ["Golang", "Kubernetes", "Chaos Monkey"]},
+      {"name": "SLO Dashboarding System", "description": "Real-time SLO tracking with auto-alerting", "tech": ["Prometheus", "Grafana", "Python"]}
+    ],
+    "soft_skills": ["Calm Under Pressure", "Root Cause Analysis", "Documentation", "On-call Leadership"],
+    "culture_fit": ["Reliability-first", "Systematic", "Ownership-driven"],
+    "assessment_scores": {"coding": 82, "system_design": 90, "communication": 80},
+    "portfolio": "https://alokverma.sre",
+    "github_url": "https://github.com/aloksre",
+    "ai_scores": {
+      "skill_depth": 88,
+      "career_growth": 83,
+      "leadership": 75,
+      "stability": 92,
+      "domain_expertise": 91,
+      "learning_agility": 80
+    },
+    "behavioral_signals": {
+      "last_active_days": 4,
+      "profile_updated_days": 9,
+      "github_commits_30d": 30,
+      "assessments_completed": 5,
+      "platform_logins_30d": 16,
+      "courses_completed": 3,
+      "engagement_score": 76
+    },
+    "salary_expectation": 2800000,
+    "available_from": "2026-09-01",
+    "open_to_remote": false,
+    "preferred_roles": ["SRE", "Platform Engineer", "Infrastructure Lead"]
+  },
+  {
+    "id": "c014",
+    "name": "Tanvi Shah",
+    "avatar_initials": "TS",
+    "avatar_color": "#38bdf8",
+    "title": "AI/ML Research Engineer",
+    "location": "Hyderabad, India",
+    "email": "tanvi.shah@email.com",
+    "phone": "+91-9876543223",
+    "years_experience": 3,
+    "industry": "AI Research",
+    "education": [
+      {"degree": "M.Tech AI", "institution": "IIT Hyderabad", "year": 2021},
+      {"degree": "B.Sc Mathematics", "institution": "Delhi University", "year": 2019}
+    ],
+    "certifications": ["Deep Learning Specialization", "NLP Specialization", "Kaggle Master"],
+    "skills": ["Python", "PyTorch", "JAX", "Transformers", "RLHF", "LLM Fine-tuning", "Diffusion Models", "MLOps", "Research", "CUDA"],
+    "experience": [
+      {"company": "Microsoft Research India", "role": "Research Engineer", "years": 2, "description": "Published 3 papers on efficient LLM training. Built RLHF pipeline reducing alignment cost by 40%."},
+      {"company": "AI4Bharat", "role": "Research Intern → FTE", "years": 1, "description": "Contributed to Indic language LLM project."}
+    ],
+    "projects": [
+      {"name": "Efficient LLM Fine-tuning", "description": "LoRA-based fine-tuning framework", "tech": ["PyTorch", "Transformers", "CUDA"]},
+      {"name": "Multimodal Reasoning", "description": "Vision-language alignment research", "tech": ["JAX", "Diffusion Models", "Python"]}
+    ],
+    "soft_skills": ["Deep Focus", "Research Communication", "Curiosity", "Collaboration"],
+    "culture_fit": ["Research-forward", "Open-source", "Knowledge-sharing"],
+    "assessment_scores": {"coding": 90, "system_design": 78, "communication": 82},
+    "portfolio": "https://tanvishah.research",
+    "github_url": "https://github.com/tanviai",
+    "ai_scores": {
+      "skill_depth": 88,
+      "career_growth": 85,
+      "leadership": 60,
+      "stability": 72,
+      "domain_expertise": 92,
+      "learning_agility": 98
+    },
+    "behavioral_signals": {
+      "last_active_days": 1,
+      "profile_updated_days": 2,
+      "github_commits_30d": 80,
+      "assessments_completed": 6,
+      "platform_logins_30d": 28,
+      "courses_completed": 9,
+      "engagement_score": 97
+    },
+    "salary_expectation": 2400000,
+    "available_from": "2026-07-01",
+    "open_to_remote": true,
+    "preferred_roles": ["AI Research Engineer", "ML Scientist", "LLM Engineer"]
+  },
+  {
+    "id": "c015",
+    "name": "Pranav Kulkarni",
+    "avatar_initials": "PK",
+    "avatar_color": "#4ade80",
+    "title": "Backend Engineer - Golang",
+    "location": "Pune, India",
+    "email": "pranav.kulkarni@email.com",
+    "phone": "+91-9876543224",
+    "years_experience": 5,
+    "industry": "Gaming/Real-time",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "COEP Pune", "year": 2019}
+    ],
+    "certifications": ["Go Professional", "Redis Certified", "Distributed Systems (MIT OCW)"],
+    "skills": ["Golang", "gRPC", "Redis", "Kafka", "PostgreSQL", "WebSockets", "NATS", "Docker", "Kubernetes", "Rust"],
+    "experience": [
+      {"company": "Dream11", "role": "Senior Backend Engineer", "years": 3, "description": "Built real-time contest engine handling 1.5Cr concurrent users during IPL. Sub-100ms latency."},
+      {"company": "Games24x7", "role": "Backend Developer", "years": 2, "description": "Developed matchmaking and leaderboard systems for real-money games."}
+    ],
+    "projects": [
+      {"name": "IPL Match Engine", "description": "Low-latency contest management for 15M users", "tech": ["Golang", "Redis", "NATS", "Kafka"]},
+      {"name": "Real-time Leaderboard", "description": "Distributed sorted set with Redis Cluster", "tech": ["Golang", "Redis", "WebSockets"]}
+    ],
+    "soft_skills": ["Performance Focus", "Ownership", "Systematic Debugging", "Reliability"],
+    "culture_fit": ["High-performance", "Scale-obsessed", "Engineering-first"],
+    "assessment_scores": {"coding": 94, "system_design": 91, "communication": 78},
+    "portfolio": "https://pranavkulkarni.dev",
+    "github_url": "https://github.com/pranavgo",
+    "ai_scores": {
+      "skill_depth": 92,
+      "career_growth": 85,
+      "leadership": 68,
+      "stability": 82,
+      "domain_expertise": 90,
+      "learning_agility": 86
+    },
+    "behavioral_signals": {
+      "last_active_days": 2,
+      "profile_updated_days": 5,
+      "github_commits_30d": 52,
+      "assessments_completed": 5,
+      "platform_logins_30d": 24,
+      "courses_completed": 4,
+      "engagement_score": 88
+    },
+    "salary_expectation": 2500000,
+    "available_from": "2026-07-15",
+    "open_to_remote": true,
+    "preferred_roles": ["Backend Engineer", "Systems Engineer", "Staff Engineer"]
+  },
+  {
+    "id": "c016",
+    "name": "Ananya Roy",
+    "avatar_initials": "AR",
+    "avatar_color": "#c084fc",
+    "title": "UX Engineer",
+    "location": "Kolkata, India",
+    "email": "ananya.roy@email.com",
+    "phone": "+91-9876543225",
+    "years_experience": 4,
+    "industry": "Design/Product",
+    "education": [
+      {"degree": "B.Des Interaction Design", "institution": "NID Ahmedabad", "year": 2020}
+    ],
+    "certifications": ["Figma Advanced", "React Developer", "Google UX Design"],
+    "skills": ["React", "CSS Animation", "Figma", "Framer Motion", "TypeScript", "A11y", "User Research", "Design Systems", "Three.js", "GSAP"],
+    "experience": [
+      {"company": "Razorpay", "role": "UX Engineer", "years": 3, "description": "Bridged design-dev gap. Built animated component library adopted by 8 product teams."},
+      {"company": "Clevertap", "role": "Frontend Developer", "years": 1, "description": "Implemented pixel-perfect campaign builder UI."}
+    ],
+    "projects": [
+      {"name": "Motion Design System", "description": "Animated component library with Framer Motion", "tech": ["React", "Framer Motion", "Figma"]},
+      {"name": "3D Analytics Dashboard", "description": "Three.js powered data visualization", "tech": ["Three.js", "React", "GSAP"]}
+    ],
+    "soft_skills": ["Creativity", "Attention to Detail", "Empathy", "Cross-functional Thinking"],
+    "culture_fit": ["Design-led", "Craft-focused", "Collaborative"],
+    "assessment_scores": {"coding": 80, "system_design": 70, "communication": 88},
+    "portfolio": "https://ananyaroy.design",
+    "github_url": "https://github.com/ananyaux",
+    "ai_scores": {
+      "skill_depth": 82,
+      "career_growth": 78,
+      "leadership": 62,
+      "stability": 82,
+      "domain_expertise": 88,
+      "learning_agility": 90
+    },
+    "behavioral_signals": {
+      "last_active_days": 2,
+      "profile_updated_days": 4,
+      "github_commits_30d": 38,
+      "assessments_completed": 3,
+      "platform_logins_30d": 20,
+      "courses_completed": 5,
+      "engagement_score": 82
+    },
+    "salary_expectation": 1900000,
+    "available_from": "2026-08-01",
+    "open_to_remote": true,
+    "preferred_roles": ["UX Engineer", "Design Engineer", "Frontend Developer"]
+  },
+  {
+    "id": "c017",
+    "name": "Suresh Menon",
+    "avatar_initials": "SM",
+    "avatar_color": "#fb7185",
+    "title": "Enterprise Solutions Architect",
+    "location": "Bangalore, India",
+    "email": "suresh.menon@email.com",
+    "phone": "+91-9876543226",
+    "years_experience": 15,
+    "industry": "Enterprise IT",
+    "education": [
+      {"degree": "M.Tech Systems", "institution": "IISc Bangalore", "year": 2009}
+    ],
+    "certifications": ["AWS Solutions Architect Professional", "TOGAF", "SAP Certified", "ITIL Master"],
+    "skills": ["Enterprise Architecture", "Java", "SAP", "AWS", "Integration Patterns", "TOGAF", "Microservices", "Event-Driven Architecture", "Solution Design", "Presales"],
+    "experience": [
+      {"company": "IBM", "role": "Distinguished Engineer", "years": 6, "description": "Led digital transformation for 20+ Fortune 500 clients. $200M in project delivery."},
+      {"company": "Accenture", "role": "Principal Architect", "years": 5, "description": "Designed enterprise integration platforms for BFSI sector."},
+      {"company": "Infosys", "role": "Senior Software Engineer", "years": 4, "description": "SAP implementation and customization."}
+    ],
+    "projects": [
+      {"name": "Bank of Baroda Digital Core", "description": "Core banking transformation to cloud-native", "tech": ["Java", "AWS", "Event-Driven Architecture"]},
+      {"name": "Airline Reservation Modernization", "description": "Legacy to microservices migration", "tech": ["Microservices", "Kafka", "Kubernetes"]}
+    ],
+    "soft_skills": ["Executive Presence", "Client Relations", "Vision", "Mentoring", "Negotiation"],
+    "culture_fit": ["Enterprise-grade", "Governance-aware", "Delivery-focused"],
+    "assessment_scores": {"coding": 65, "system_design": 97, "communication": 95},
+    "portfolio": "https://sureshmenon.io",
+    "github_url": "",
+    "ai_scores": {
+      "skill_depth": 80,
+      "career_growth": 92,
+      "leadership": 97,
+      "stability": 97,
+      "domain_expertise": 90,
+      "learning_agility": 72
+    },
+    "behavioral_signals": {
+      "last_active_days": 8,
+      "profile_updated_days": 20,
+      "github_commits_30d": 0,
+      "assessments_completed": 2,
+      "platform_logins_30d": 8,
+      "courses_completed": 1,
+      "engagement_score": 48
+    },
+    "salary_expectation": 6000000,
+    "available_from": "2026-12-01",
+    "open_to_remote": false,
+    "preferred_roles": ["Chief Architect", "VP Engineering", "CTO"]
+  },
+  {
+    "id": "c018",
+    "name": "Kavya Reddy",
+    "avatar_initials": "KR",
+    "avatar_color": "#34d399",
+    "title": "Android Developer",
+    "location": "Hyderabad, India",
+    "email": "kavya.reddy@email.com",
+    "phone": "+91-9876543227",
+    "years_experience": 5,
+    "industry": "Mobile Tech",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "JNTU Hyderabad", "year": 2019}
+    ],
+    "certifications": ["Android Professional", "Kotlin Expert", "Google Associate Android Developer"],
+    "skills": ["Kotlin", "Jetpack Compose", "Android SDK", "MVVM", "Coroutines", "Hilt", "Room", "Firebase", "Retrofit", "Python"],
+    "experience": [
+      {"company": "ShareChat", "role": "Senior Android Developer", "years": 3, "description": "Led Android team for short video platform with 180M downloads. Shipped ML-powered feed."},
+      {"company": "Vedantu", "role": "Android Developer", "years": 2, "description": "Built live class streaming feature with WebRTC."}
+    ],
+    "projects": [
+      {"name": "Video Feed ML Engine", "description": "On-device ML for content recommendation", "tech": ["Kotlin", "TFLite", "Coroutines"]},
+      {"name": "Live Class SDK", "description": "Real-time video streaming with chat", "tech": ["Kotlin", "WebRTC", "Firebase"]}
+    ],
+    "soft_skills": ["Ownership", "User Focus", "Collaboration", "Iteration"],
+    "culture_fit": ["Product-minded", "User-centric", "Data-driven"],
+    "assessment_scores": {"coding": 87, "system_design": 76, "communication": 83},
+    "portfolio": "https://kavyareddy.android",
+    "github_url": "https://github.com/kavyaandroid",
+    "ai_scores": {
+      "skill_depth": 88,
+      "career_growth": 83,
+      "leadership": 70,
+      "stability": 85,
+      "domain_expertise": 91,
+      "learning_agility": 83
+    },
+    "behavioral_signals": {
+      "last_active_days": 2,
+      "profile_updated_days": 5,
+      "github_commits_30d": 45,
+      "assessments_completed": 4,
+      "platform_logins_30d": 21,
+      "courses_completed": 4,
+      "engagement_score": 86
+    },
+    "salary_expectation": 2300000,
+    "available_from": "2026-08-01",
+    "open_to_remote": true,
+    "preferred_roles": ["Android Developer", "Mobile Tech Lead", "Staff Engineer"]
+  },
+  {
+    "id": "c019",
+    "name": "Ravi Shankar",
+    "avatar_initials": "RS",
+    "avatar_color": "#60a5fa",
+    "title": "Principal Software Architect",
+    "location": "Chennai, India",
+    "email": "ravi.shankar@email.com",
+    "phone": "+91-9876543228",
+    "years_experience": 13,
+    "industry": "FinTech",
+    "education": [
+      {"degree": "M.Tech CS", "institution": "IIT Madras", "year": 2011}
+    ],
+    "certifications": ["AWS Solutions Architect Professional", "GCP Professional Architect", "CKA"],
+    "skills": ["Java", "Python", "Scala", "Distributed Systems", "Event-Driven Architecture", "AWS", "Kafka", "Elasticsearch", "System Design", "Tech Leadership"],
+    "experience": [
+      {"company": "Paytm", "role": "Principal Architect", "years": 5, "description": "Designed payment infrastructure handling Rs 5,000Cr daily. Led 40-member tech team."},
+      {"company": "Walmart Labs", "role": "Staff Engineer", "years": 4, "description": "Built real-time inventory synchronization across 11,000 stores."},
+      {"company": "Oracle", "role": "Senior Software Engineer", "years": 4, "description": "Core database engine optimization and enterprise applications."}
+    ],
+    "projects": [
+      {"name": "UPI 2.0 Infrastructure", "description": "Next-gen UPI payment rails", "tech": ["Java", "Kafka", "Cassandra", "AWS"]},
+      {"name": "Real-time Inventory System", "description": "Global inventory sync engine", "tech": ["Scala", "Spark", "Elasticsearch"]}
+    ],
+    "soft_skills": ["Technical Vision", "Executive Communication", "Mentoring", "Architecture Review"],
+    "culture_fit": ["Engineering excellence", "Scale-driven", "Mission-aligned"],
+    "assessment_scores": {"coding": 87, "system_design": 98, "communication": 90},
+    "portfolio": "https://ravishankar.tech",
+    "github_url": "https://github.com/raviprincipal",
+    "ai_scores": {
+      "skill_depth": 90,
+      "career_growth": 95,
+      "leadership": 92,
+      "stability": 95,
+      "domain_expertise": 95,
+      "learning_agility": 80
+    },
+    "behavioral_signals": {
+      "last_active_days": 3,
+      "profile_updated_days": 7,
+      "github_commits_30d": 22,
+      "assessments_completed": 5,
+      "platform_logins_30d": 17,
+      "courses_completed": 2,
+      "engagement_score": 75
+    },
+    "salary_expectation": 5000000,
+    "available_from": "2026-10-01",
+    "open_to_remote": true,
+    "preferred_roles": ["Principal Architect", "VP Engineering", "CTO"]
+  },
+  {
+    "id": "c020",
+    "name": "Pooja Singh",
+    "avatar_initials": "PJ",
+    "avatar_color": "#facc15",
+    "title": "QA Automation Engineer",
+    "location": "Lucknow, India",
+    "email": "pooja.singh@email.com",
+    "phone": "+91-9876543229",
+    "years_experience": 5,
+    "industry": "SaaS",
+    "education": [
+      {"degree": "B.Tech CS", "institution": "AKTU Lucknow", "year": 2019}
+    ],
+    "certifications": ["ISTQB Advanced", "Selenium Professional", "Cypress.io Expert"],
+    "skills": ["Selenium", "Cypress", "Playwright", "Python", "Java", "API Testing", "Performance Testing", "JMeter", "CI/CD", "BDD"],
+    "experience": [
+      {"company": "Delhivery", "role": "Senior QA Engineer", "years": 3, "description": "Built automated regression suite with 2,000+ test cases. Reduced bug escape rate by 85%."},
+      {"company": "Naukri", "role": "QA Engineer", "years": 2, "description": "Manual + automation testing for job platform with 70M users."}
+    ],
+    "projects": [
+      {"name": "Logistics QA Framework", "description": "End-to-end automation framework for supply chain", "tech": ["Selenium", "Python", "Jenkins"]},
+      {"name": "API Performance Suite", "description": "JMeter-based load testing with chaos injection", "tech": ["JMeter", "Python", "Docker"]}
+    ],
+    "soft_skills": ["Attention to Detail", "Systemic Thinking", "Collaboration", "Advocacy"],
+    "culture_fit": ["Quality-driven", "Process-oriented", "Collaborative"],
+    "assessment_scores": {"coding": 78, "system_design": 70, "communication": 80},
+    "portfolio": "https://poojasingh.qa",
+    "github_url": "https://github.com/poojaqa",
+    "ai_scores": {
+      "skill_depth": 78,
+      "career_growth": 74,
+      "leadership": 60,
+      "stability": 85,
+      "domain_expertise": 82,
+      "learning_agility": 78
+    },
+    "behavioral_signals": {
+      "last_active_days": 4,
+      "profile_updated_days": 10,
+      "github_commits_30d": 20,
+      "assessments_completed": 4,
+      "platform_logins_30d": 16,
+      "courses_completed": 3,
+      "engagement_score": 72
+    },
+    "salary_expectation": 1700000,
+    "available_from": "2026-07-15",
+    "open_to_remote": true,
+    "preferred_roles": ["QA Automation Engineer", "SDET", "QA Lead"]
+  }
+]
